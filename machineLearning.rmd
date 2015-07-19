@@ -2,7 +2,7 @@
 
 <center>*Project Assignment*</center>
 
-<center>***Title: Predicting the Manner 6 Volunteers perfoemd Weight Lifting Activity ***</center>
+<center>***Title: Predicting the manner 6 Volunteers performed Weight Lifting Activity ***</center>
 
 
 <center>***Sergio Vicente Simioni***</center>
